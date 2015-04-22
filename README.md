@@ -22,6 +22,7 @@ In class APRS released auth on APRS-servers and sending messages with current po
  ```
   
  For add to cron on Linux:
+ 
    1) Open cron config: 
    
    ```
