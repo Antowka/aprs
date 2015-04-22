@@ -10,8 +10,9 @@ In class APRS released auth on APRS-servers and sending messages with current po
  
  
  #How Use#
+ 
  1) Open file **clientAprs.php**
- 2) Set you **Callsign, Pass, Lat, Long, Comment** ans save
+ 2) Set your **Callsign, Pass, Lat, Long, Comment** and save
  3) Run script: 
  
  ```
