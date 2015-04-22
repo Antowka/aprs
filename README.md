@@ -2,7 +2,7 @@
 
 In class APRS released auth on APRS-servers and sending messages with current position.
 
-##Methods in APRS-class##
+##Methods in APRS-api##
 
 **sendPosition($lat, $long, $comment)** - sending position to APRS servers
 
@@ -12,7 +12,9 @@ In class APRS released auth on APRS-servers and sending messages with current po
 ##How Use##
  
  1) Open file **clientAprs.php**
+ 
  2) Set your **Callsign, Pass, Lat, Long, Comment** and save
+ 
  3) Run script: 
  
  ```
