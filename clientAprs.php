@@ -3,6 +3,7 @@
 /**
  * Created by Anton Nikanorov on 4/20/15.
  * Email: 662307@gmail.com
+ * CallSign: UC6KFQ
  */
 
 require_once 'APRS.php';
