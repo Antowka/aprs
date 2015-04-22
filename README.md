@@ -9,7 +9,7 @@ In class APRS released auth on APRS-servers and sending messages with current po
 **sendMsgToCallSign($recipient, $msg)** - sending text-message to other CallSign - *in implementation*
  
  
- #How Use#
+##How Use##
  
  1) Open file **clientAprs.php**
  2) Set your **Callsign, Pass, Lat, Long, Comment** and save

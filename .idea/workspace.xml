@@ -51,8 +51,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29577464" vertical-offset="0" max-vertical-offset="1008">
-              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.23239437" vertical-offset="0" max-vertical-offset="1008">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -183,7 +183,13 @@
       <option name="project" value="LOCAL" />
       <updated>1429705080540</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add descriptions for methods in README.md">
+      <created>1429705152614</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1429705152614</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -261,8 +267,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29577464" vertical-offset="0" max-vertical-offset="1008">
-          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.23239437" vertical-offset="0" max-vertical-offset="1008">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding />
         </state>
       </provider>
