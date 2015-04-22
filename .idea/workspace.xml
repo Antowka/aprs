@@ -51,8 +51,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5070422" vertical-offset="0" max-vertical-offset="1062">
-              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.48591548" vertical-offset="0" max-vertical-offset="1062">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -201,7 +201,13 @@
       <option name="project" value="LOCAL" />
       <updated>1429705249705</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add descriptions for methods in README.md">
+      <created>1429705292196</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1429705292196</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -279,8 +285,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5070422" vertical-offset="0" max-vertical-offset="1062">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.48591548" vertical-offset="0" max-vertical-offset="1062">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
