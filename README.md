@@ -40,7 +40,7 @@ In class APRS released auth on APRS-servers and sending messages with current po
     
     # run-parts
     
-    */15 * * * * /usr/bin/php /var/www/scripts/clientAprs.php
+    */15 * * * * /usr/bin/php /{path_to_script}/clientAprs.php
    
    ```
    
