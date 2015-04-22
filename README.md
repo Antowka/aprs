@@ -6,4 +6,4 @@ In class APRS released auth on APRS-servers and sending messages with current po
 
 **sendPosition($lat, $long, $comment)** - sending position to APRS servers
 
-**sendMsgToCallSign($recipient, $msg)** - sending text-message to other CallSign ( *in implementation* ) 
+**sendMsgToCallSign($recipient, $msg)** - sending text-message to other CallSign( *in implementation* ) 
