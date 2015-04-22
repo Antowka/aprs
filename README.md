@@ -21,7 +21,7 @@ In class APRS released auth on APRS-servers and sending messages with current po
  php clientAprs.php
  ```
   
-###For add to cron on Linux:###
+###For add to cron on Linux(CentOS):###
  
    1) Open cron config: 
    
